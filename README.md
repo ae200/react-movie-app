@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This is a movie app built with React JavaScript framework as the front end, Apollo client, Bootstrap UI while GraphQL, NodeJS, ExpressGraphQL are working at the Backend. Atlas as the Data.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
